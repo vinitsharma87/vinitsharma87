@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vinitsharma87
-- 👀 I’m interested in Full Stack web programming (Java,MySQL,Angular,Javascript).
-- 🌱 I’m currently learning Springboot.
+- 👀 I’m interested a Full Stack Java Developer (Java, SpringBoot, MySQL, Angular, Javascript).
 - 💞️ I’m looking to collaborate on Angular/Springboot/Scala.
 - 📫 How to reach me taurian.vinit@gmail.com
 
